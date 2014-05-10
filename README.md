@@ -1,4 +1,4 @@
-appengine-php-guestbook-cloudsql
+appengine-php-guestbook
 ================================
 
-Guestbook demo for Google App Engine that uses PHP and Cloud SQL
+Guestbook demo for Google App Engine that uses PHP
