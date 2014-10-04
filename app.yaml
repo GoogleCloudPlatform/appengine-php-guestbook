@@ -2,6 +2,7 @@ application: helloworld
 version: 1
 runtime: php
 api_version: 1
+threadsafe: true
 
 handlers:
 - url: /.*
