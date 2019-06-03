@@ -1,7 +1,3 @@
-runtime: php55
-api_version: 1
-threadsafe: true
+runtime: php72
 
-handlers:
-- url: /.*
-  script: helloworld.php
+entrypoint: serve helloworld.php
