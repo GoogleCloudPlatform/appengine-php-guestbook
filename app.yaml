@@ -1,3 +1,2 @@
 runtime: php72
 
-entrypoint: serve helloworld.php
